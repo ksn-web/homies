@@ -1,4 +1,6 @@
-<html lang="en"><head>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
     <meta content="Don't forget to kiss your homies goodnight" property="og:title">
     <meta property="og:site_name" content="kissing niggas">
     <meta content="https://kissingnig.ga/h.jpg" property="og:image">
@@ -17,7 +19,7 @@
             height: 100%;
         }
     </style>
-</head>
-<body>
-</body>
+    </head>
+    <body>
+    </body>
 </html>
