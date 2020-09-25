@@ -9,7 +9,7 @@
     <style>
         html{
             background: url("h.jpg");
-            background-size: 100%;
+            background-size: cover;
             background-position-y: -50px;
         }        
     </style>
